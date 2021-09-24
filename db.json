@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "name": "Honda Win",
+      "ingredients": "Rp. 8000.000",
+      "steps":"Honda win 100 CC keluaran tahun 2003. Surat-surat lengkap plat panjang sampai 2024",
+      "image": "https://i.postimg.cc/7hcGkj8K/honda-win.jpg"
+    },
+    {
+      "name": "Supermoto CRF",
+      "ingredients": "Rp. 20.000.000",
+      "steps":"Honda crf modifikasi supermoto tahun 2019 150CC keluaran tahun 2019. Surat-surat lengkap plat panjang sampai 2026",
+      "image": "https://i.postimg.cc/nVsqd1t3/supermoto-crf.jpg"
+    },
+    {
+      "name": "Supra 125 modif Touring",
+      "ingredients": "Rp. 10.000.000",
+      "steps":"Honda supra 125 modifikasi touring 125 CC. Surat-surat lengkap plat panjang sampai 2024",
+      "image": "https://i.postimg.cc/c4S6Q71g/supra-2018-touring.jpg"
+    },
+    {
+      "name": "CB Ganteng",
+      "ingredients": "Rp. 18.000.000",
+      "steps":"Honda CB 200CC modifikasi ganteng. Noka nosin tembus. Surat-surat lengkap plat panjang sampai 2024.",
+      "image": "https://i.postimg.cc/L635vqhy/cb-modif.jpg"
+    },
+    {
+      "name": "Scoopy 2021",
+      "ingredients": "Rp. 19.000.000",
+      "steps":"Honda Scoopy tahun 2021 109 CC keluaran terbaru. Surat-surat lengkap plat panjang sampai 2026",
+      "image": "https://i.postimg.cc/Pq95NYFq/scoopy-2021.jpg"
+    },
+    {
+      "name": "Scoopy 2019",
+      "ingredients": "Rp. 17.500.0000",
+      "steps":"Honda Scoopy tahun 2019 109 CC keluaran terbaru. Surat-surat lengkap plat panjang sampai 2024",
+      "image": "https://i.postimg.cc/WzPpwjVL/scoopy-2019.jpg"
+    },
+    {
+      "name": "Beat 2021",
+      "ingredients": "Rp.16.000.000",
+      "steps":"Honda Beat tahun 2021 109 CC keluaran terbaru. Surat-surat lengkap plat panjang sampai 2025",
+      "image": "https://i.postimg.cc/fyKs795m/beat-2021.jpg"
+    },
+    {
+      "name": "Beat 2016",
+      "ingredients": "Rp. 8.000.000",
+      "steps":"Honda Beat tahun 2016 109 CC keluaran terbaru. Surat-surat lengkap plat panjang sampai 2026",
+      "image": "https://i.postimg.cc/xT6YcLXS/beat-2016.png"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "name": "Samsung",
+      "ingredients": "Rp. 3000.000",
+      "steps": "Harga yang dipatok untuk low end dan mid end terlalu mahal dengan spesifikasi yang tidak lebih baik dari pesaing, Body material kebanyakan terbuat dari plastik, OS yang digunakan masih kalah dengan IOS",
+      "image": "https://i.postimg.cc/vH4ksVxt/samsung.jpg",
+      "lname": "ROG",
+      "lprice": "Rp. 50.000.000",
+      "lurl": "https://i.postimg.cc/WDhK7417/rog.jpg",
+      "ketlp": "Memiliki fitur yang beragam"
+    },
+    {
+      "name": "Iphone",
+      "ingredients": "Rp. 8000.000",
+      "steps": "Memiliki kinerja sistem operasi yang cenderung lebih cepat daripada Android, Fingerprint yang lebih peka daripada Android, Update software yang lumayan cepat dan merata, Performa dan Build Quality yang lebih baik ketimbang Android ",
+      "image": "https://i.postimg.cc/SnZ389ks/iphone.jpg",
+      "lname": "Asus",
+      "lprice": "Rp. 8.000.000",
+      "lurl": "https://i.postimg.cc/0bnBRS6f/asus.png",
+      "ketlp": "Memiliki fitur yang beragam"
+    },
+    {
+      "name": "Oppo",
+      "ingredients": "Rp. 2000.000",
+      "steps": "Mempunyai kamera selfie yang baik, Memiliki fitur VOOC Flash Charge, Desain yang ditawarkan selalu menarik dan elegan, Spesifikasi HP baru selalu sesuai dengan pasaran",
+      "image": "https://i.postimg.cc/tnh8Vm4Q/oppo.jpg",
+      "lname": "Lenovo",
+      "lprice": "Rp. 4.000.000",
+      "lurl": "https://i.postimg.cc/06MvPc90/lenovolepi.jpg",
+      "ketlp": "Memiliki fitur yang beragam"
+    },
+    {
+      "name": "Xiaomi",
+      "ingredients": "Rp. 1.800.000",
+      "steps": "Menawarkan harga yang lebih murah, Memiliki dukungan komunitas yang kuat, Menggunakan firmware MIUI dengan aplikasi yang tidak dimiliki OS Android bawaan, Desain HP yang lebih elegan",
+      "image": "https://i.postimg.cc/NySnCwyv/xiaomi.png",
+      "lname": "LG",
+      "lprice": "Rp. 5.000.000",
+      "lurl": "https://i.postimg.cc/3WgKkSmL/lg.jpg",
+      "ketlp": "Memiliki fitur yang beragam"
+    },
+    {
+      "name": "Realme",
+      "ingredients": "Rp. 3000.000",
+      "steps": "mengusung layar Super AMOLED berbentang 6,4 inci beresolusi FHD plus. Layar ini dilindungi Corning Gorilla Glass 3+ dengan rasioa layar ke bodi 82,7%.",
+      "image": "https://i.postimg.cc/sv4tj8L5/realme.jpg",
+      "lname": "Acer",
+      "lprice": "Rp. 4.500.000",
+      "lurl": "https://i.postimg.cc/Wd4jfsKK/acer.jpg",
+      "ketlp": "Memiliki fitur yang beragam"
+    },
+    {
+      "name": "Huawei",
+      "ingredients": "Rp. 9000.0000",
+      "steps": "Memiliki kamera terbaik, bahkan diklaim terbaik di dunia, Kapasitas baterai yang dimiliki cukup tinggi, Pemimpin teknologi 5G, Memiliki GPU Turbo sehingga mampu diajak untuk bermain game berat, Kapasitas baterai yang dimiliki cukup tinggi ",
+      "image": "https://i.postimg.cc/XrNtpLMm/huawei.jpg",
+      "lname": "Apple",
+      "lprice": "Rp. 10.000.000",
+      "lurl": "https://i.postimg.cc/JDHfRhwh/apple.jpg",
+      "ketlp": "Memiliki fitur yang beragam"
+    },
+    {
+      "name": "Vivo",
+      "ingredients": "Rp. 3000.000",
+      "steps": "Vivo sering menghadirkan fitur dan inovasi baru pada perangkatnya, HP Vivo selalu menghadirkan kualitas yang baik terhadap kameranya, terutama kamera selfie, Vivo memiliki fitur Dual Engine Fast Charging untuk pengisian daya cepatnya, Memiliki tampilan visual yang sangat menarik",
+      "image": "https://i.postimg.cc/crSpNZFs/vivo.jpg",
+      "lname": "HP",
+      "lprice": "Rp. 4.000.000",
+      "lurl": "https://i.postimg.cc/QKpxsSky/hp.jpg",
+      "ketlp": "Memiliki fitur yang beragam"
+    },
+    {
+      "name": "Lenovo",
+      "ingredients": "Rp. 2000.000",
+      "steps": "Performa yang dimiliki kelas atas, Memiliki audio yang berkualitas, Kemampuan kamera yang cukup mumpuni, Tersedia wireless charging",
+      "image": "https://i.postimg.cc/p5NgrtxJ/lenovohp.jpg",
+      "lname": "Dell",
+      "lprice": "Rp. 5.000.000",
+      "lurl": "https://i.postimg.cc/v48HFr10/dell.jpg",
+      "ketlp": "Memiliki fitur yang beragam"
+    }
+  ]
+}
