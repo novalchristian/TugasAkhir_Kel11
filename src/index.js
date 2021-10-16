@@ -1,22 +1,54 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import App from "./App";
-import reportWebVitals from "./reportWebVitals";
-import Mokas from "./Component/mokas";
-import Kasir from "./Component/kasir";
-import Header from "./Master/header";
+import Home from "./Home/Home";
+import Universitas from "./Component/Universitas/Universitas";
+import Daftar from "./Component/Daftar/Daftar";
+import Sosial from "./Component/sosial/sosial";
+import Header from "./Header/Header";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+
+const data = [
+  {
+    title:"Home",
+    to: "/"
+  },
+  {
+    title:"Universitas",
+    to: "Universitas"
+  },
+  {
+    title:"Daftar Universitas",
+    to: "Daftar_Universitas"
+  },
+  {
+    title:"Hubungi Kami",
+    to: "Hubungi_Kami"
+  }
+]
+
 const Routing = () => {
   return (
     <Router>
       <div>
-        <Header />
+        <Header data={data}/>
         <Switch>
-          <Route exact path="/" component={App} />
-          <Route path="/mokas" component={Mokas} />
-          {/* <Route path="/laptop" component={Laptop} /> */}
-          <Route path="/kasir" component={Kasir} />
+          <Route
+            exact path="/"
+            render={(props) => <Home {...props}
+              title="SIKANJAT"
+              subTitle="Sistem Informasi kampus Negeri se Jawa Tengah"
+            />}
+          />
+          <Route
+            path="/Universitas"
+            render={(props) => <Universitas {...props}
+            title="SIKANJAT"
+            subTitle="Sistem Informasi kampus Negeri se Jawa Tengah"
+            />}
+          />
+          <Route path="/Daftar_Universitas" component={Daftar} />
+          <Route path="/Hubungi_Kami" component={Sosial} />
         </Switch>
       </div>
     </Router>
@@ -29,8 +61,3 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById("root")
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
