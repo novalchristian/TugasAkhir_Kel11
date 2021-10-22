@@ -42,7 +42,7 @@ export default function SimpleModal(props) {
     return (
         <div>
             <Button variant="contained" color="primary" onClick={handleOpen}>
-                Total
+                Daftar
             </Button>
 
             <Modal
@@ -52,14 +52,14 @@ export default function SimpleModal(props) {
                 onClose={handleClose}
             >
                 <div style={modalStyle} className={classes.paper}>
-                    <div style={{backgroundColor:"#efdbff", padding:"10px", color:"#4b0082"}}>
+                    <div style={{backgroundColor:"#efdbff", padding:"10px", color:"maroon"}}>
                         <h2>Nama : {props.nama}</h2>
-                        <h2>Alamat: {props.alamat}</h2>
-                        <h2>Nomor Hp: {props.hp}</h2>
+                        <h2 style={{paddingTop:"10px"}} >Alamat : {props.alamat}</h2>
+                        <h2 style={{paddingTop:"10px"}} >Nomor Hp : {props.hp}</h2>
                     </div>
-                    <div style={{display:"flex", justifyContent:"space-between"}}>
-                        <h3>Anda Mendaftar di : </h3>
-                        <h3 style={{fontSize:"20px"}}>Rp. {props.total}</h3>
+                    <div style={{display:"flex", justifyContent:"space-between", marginTop:"10px"}}>
+                        <h4 style={{paddingTop:"3px"}} >Anda Mendaftar di : </h4>
+                        <h3 style={{fontSize:"20px", textAlign:"right"}}>{props.universitas}</h3>
                     </div>
                 </div>
             </Modal>

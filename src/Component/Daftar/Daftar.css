@@ -41,3 +41,24 @@
   font-weight: bold;
   padding: 8px;
 }
+
+.container {
+  background-color: white;
+  padding-top: 7.3vh;
+  width: 60%;
+  overflow-y: hidden;
+}
+
+.subject-left{
+  width: 65%;
+  background-color: skyblue;
+}
+
+.subject-right{
+  width: 35%;
+  background-color: slateblue;
+}
+
+.utama {
+  overflow-y: hidden;
+}

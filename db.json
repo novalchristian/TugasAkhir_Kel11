@@ -45,7 +45,7 @@
     {
       "nama": "Politeknik Negeri Semarang",
       "lokasi": "Semarang",
-      "gambar":"https://lh3.googleusercontent.com/proxy/Jul9Rv0PJid75IPmNOJnyQpJm9MHxQTcueifUB_Dpa4DEIGt4i-jRocYl0rKKEeWZzgU-z2SeUv3yWVjknUGScK0BT9cpyZMYE4TD0xOlc7adLgV3aw",
+      "gambar":"https://t-2.tstatic.net/tribunnewswiki/foto/bank/images/politeknik-negeri-semarang-dsfsdff.jpg",
       "keterangan": "Politeknik Negeri Semarang (Polines) dahulu merupakan bagian dari Universitas Diponegoro. Barulah pada tahun 1997, Polines berdiri sendiri sesuai Kepmendikbud dan berubah nama menjadi Politeknik Negeri Semarang. Seperti politeknik pada umumnya, Polines juga menyelenggarakan pendidikan dengan jenjang Diploma. Di samping itu, Polines juga menyelenggarakan jenjang Diploma IV yang jenjangnya setara dengan S1."
     },
     {
@@ -62,14 +62,15 @@
     }
   ],
   "universitas": [
-    ["Universitas Diponegoro"],
-    ["Nissan Grand Livina (2015)", 100000000],
-    ["Toyota Rush (2019)", 228000000],
-    ["Toyota Voxy (2018)", 385000000],
-    ["Honda Cr-Z (2014)", 328000000],
-    ["Daihatsu Sirion (2014)", 84000000],
-    ["Honda Jazz (2011)", 109000000],
-    ["Daihatsu Terios (2018)", 207500000],
-    ["Toyota Agya (2018)", 108000000]
+    ["Universitas Diponegoro", "Universitas Diponegoro"],
+    ["Universitas Negeri Semarang", "Universitas Negeri Semarang"],
+    ["Universitas Islam Negeri Walisongo", "Universitas Islam Negeri Walisongo"],
+    ["Universitas Sebelas Maret", "Universitas Sebelas Maret"],
+    ["Universitas Tidar", "Universitas Tidar"],
+    ["IAIN Purwokerto", "IAIN Purwokerto"],
+    ["Akademi Kepolisian", "Akademi Kepolisian"],
+    ["Politeknik Negeri Semarang", "Politeknik Negeri Semarang"],
+    ["Universitas Jendral Soedirman", "Universitas Jendral Soedirman"],
+    ["Politeknik Kesehatan Kemenkes Semarang", "Politeknik Kesehatan Kemenkes Semarang"]
   ]
 }

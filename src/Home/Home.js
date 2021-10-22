@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 /* eslint-disable jsx-a11y/no-distracting-elements */
 import {  useEffect } from "react";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
