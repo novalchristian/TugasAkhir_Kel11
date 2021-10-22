@@ -6,7 +6,7 @@ export default function Content(props) {
 
   return (
     <div style={{paddingTop:"10vh"}}>
-      <h1 style={{textAlign:"center"}}>{props.title}</h1>
+      <h1 style={{textAlign:"center", color:"#6f32a8", fontSize:60}}>{props.title}</h1>
       <p style={{textAlign:"center"}}>{apps.description}</p>
     </div>
   );
